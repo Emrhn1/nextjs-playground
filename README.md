@@ -32,16 +32,25 @@ Instead of mixing everything in one project, each topic is separated to avoid co
 
 nextjs-playground/
 
-01-server-client/
-02-data-fetching/
-03-server-actions/
-04-caching/
-05-routing/
-06-dynamic-routes/
-07-search-params/
-08-middleware/
-09-auth/
-10-mini-projects/
+01-server-client
+
+02-routing
+
+03-dynamic-routing
+
+04-data-fetching
+
+05-server-actions
+
+06-caching
+
+07-search-params
+
+08-layouts
+
+09-middleware
+
+10-auth
 
 
 Each folder contains:
