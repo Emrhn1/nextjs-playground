@@ -40,9 +40,9 @@ nextjs-playground/
 
 04-data-fetching
 
-05-server-actions
+05-seo
 
-06-caching
+06-caching&revalidation
 
 07-search-params
 
