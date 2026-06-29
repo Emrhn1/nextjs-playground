@@ -61,4 +61,6 @@ export default Counter;
 | Bundle Size        | 🚀     0 (The code doesn't go to the browser) | 📦 Yes (Downloaded to the browser) |
 | React Hooks        | ❌     No                                      | ✅     Yes           |
 | User Interactivity | ❌     No                                      | ✅     Yes           |
+| Does It Run on the Server During the First Load?| ✅     Yes        | ✅     Yes (For fast startup with SSR) |
+| Does it run on the browser | ❌     No (never)                      | ✅     Yes
 
