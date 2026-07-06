@@ -42,15 +42,19 @@ nextjs-playground/
 
 05-seo
 
-06-caching&revalidation
+06-caching&ppr
 
-07-search-params
+07-revalidation
 
 08-layouts
 
-09-middleware
+09-server-actions
 
-10-auth
+10-middleware
+
+11-auth
+
+12-important-functions
 
 
 Each folder contains:
